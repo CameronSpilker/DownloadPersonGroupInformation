@@ -4,7 +4,7 @@ Created As Convenience Utility For Integrating Project HoloRekognition And Azure
 Download Person Group Information from your Azure Face Resource
 
 # Objective(s)
-* Retrieve all People information from a Group in the Face resource and put into a CSV file.
+* Retrieve all People information from a Person Group from an Azure Face Resource and put into a CSV file.
 
 # Prerequisite(s) 
 * The script was written in Python 3.7.2. This version of Python is recommended. (download here https://www.python.org/downloads/release/python-372/)
