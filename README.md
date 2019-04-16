@@ -1,3 +1,15 @@
+# HoloRekognition
+HoloRekognition is a Microsoft HoloLens Facial identification and recognition application. It is an academic project planned and developed in the Winter of 2019 by the following individuals as a part of the capstone requirement for the BYU Marriott School of Business MISM Program: 
+
+* [Levi Bowser](https://github.com/LeviBowser)
+* [Nathan Barton](https://github.com/nbarton915)
+* [Cameron Spilker](https://github.com/CameronSpilker)
+
+Additional backend utilities were created through this capstone to interact with Azure Face API:
+
+* [CustomPersonMaker](https://github.com/nbarton915/CustomPersonMaker): Created As Convenience Utility For Integrating Project HoloRekognition With Azure Face Resource - Create, train, fetch, update, and delete (people and groups)
+* [Project HoloRekognition](https://github.com/LeviBowser/HoloRekognition): Project HoloRekognition 
+
 # DonwloadPersonGroupInformation
 Created As Convenience Utility For Integrating Project HoloRekognition And Azure Face Resource
 
